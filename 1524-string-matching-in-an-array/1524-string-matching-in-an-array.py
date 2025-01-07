@@ -3,8 +3,8 @@ class Solution:
         ans = set()
         for i in range(len(words)):
             for j in range(len(words)):
-                if i == j:
+                if i == j or len(words[i]) > len(words[j]):
                     continue
-                if words[i] in words[j]:
+                if words[j].find(words[i]) != -1:
                     ans.add(words[i])
         return list(ans)

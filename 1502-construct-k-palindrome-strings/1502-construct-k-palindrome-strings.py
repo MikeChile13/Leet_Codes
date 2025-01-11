@@ -5,8 +5,11 @@ class Solution:
             return False
         if n == k:
             return True
-        count = Counter(s)
+        freq = [0]*26
         oddCount = 0
-        for val in count.values():
-            oddCount += val&1
+        for char in s:
+            freq[ord(char)-97]+=1
+        for count in freq:
+            if count % 2 == 1:
+                oddCount+=1
         return oddCount <= k

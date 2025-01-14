@@ -1,9 +1,9 @@
 class Solution:
     def repeatedCharacter(self, s: str) -> str:
-        seen = defaultdict()
+        seen = set()
         for i in range(len(s)):
             if s[i] not in seen:
-                seen[s[i]]=1
+                seen.add(s[i])
             else:
                 return s[i]
         return s[0]

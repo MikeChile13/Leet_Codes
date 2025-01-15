@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikeChile13/Leet_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/MikeChile13/Leet_Codes/tree/master/0374-guess-number-higher-or-lower) |
 ## Greedy
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikeChile13/Leet_Codes/tree/master/0150-evaluate-reverse-polish-notation) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/MikeChile13/Leet_Codes/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

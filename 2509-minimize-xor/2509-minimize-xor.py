@@ -1,11 +1,7 @@
 class Solution:
     def minimizeXor(self, num1: int, num2: int) -> int:
         def count_set_bits(num):
-            setBits = 0
-            while num > 0:
-                setBits += num & 1
-                num >>= 1
-            return setBits
+            return bin(num).count('1')
         def increase(num,count):
             pos = 0
             while count > 0:

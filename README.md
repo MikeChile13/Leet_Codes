@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/MikeChile13/Leet_Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/MikeChile13/Leet_Codes/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2465-shifting-letters-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/MikeChile13/Leet_Codes/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MikeChile13/Leet_Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2427-first-letter-to-appear-twice](https://github.com/MikeChile13/Leet_Codes/tree/master/2427-first-letter-to-appear-twice) |
 | [2509-minimize-xor](https://github.com/MikeChile13/Leet_Codes/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/MikeChile13/Leet_Codes/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MikeChile13/Leet_Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0128-longest-consecutive-sequence) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/MikeChile13/Leet_Codes/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->

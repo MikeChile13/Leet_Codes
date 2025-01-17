@@ -1,12 +1,12 @@
 class Solution:
     def doesValidArrayExist(self, derived: List[int]) -> bool:
-        original = [0]*len(derived)
+        last,first = 0,0
         for i in range(len(derived)-1):
             if derived[i] == 1:
-                original[i+1] = 0 if original[i] == 1 else 1
+                last = 1 if last == 0 else 0
             else:
-                original[i+1] = 1 if original[i] == 1 else 0
-        if derived[-1] == 0:
-            return original[-1] == original[0]
-        else:
-            return original[-1] != original[0] 
+                last = 0 if last == 0 else 1
+        if derived[-1]:
+            return first != last
+        return first == last
+

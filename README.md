@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0407-trapping-rain-water-ii) |
+| [0695-max-area-of-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/MikeChile13/Leet_Codes/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/MikeChile13/Leet_Codes/tree/master/0859-design-circular-deque) |
 | [0878-shifting-letters](https://github.com/MikeChile13/Leet_Codes/tree/master/0878-shifting-letters) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/MikeChile13/Leet_Codes/tree/master/1396-count-servers-that-communicate) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MikeChile13/Leet_Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Brainteaser
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0407-trapping-rain-water-ii) |
+| [0695-max-area-of-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/MikeChile13/Leet_Codes/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/MikeChile13/Leet_Codes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0407-trapping-rain-water-ii) |
+| [0695-max-area-of-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0695-max-area-of-island) |
 | [1396-count-servers-that-communicate](https://github.com/MikeChile13/Leet_Codes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/MikeChile13/Leet_Codes/tree/master/2145-grid-game) |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/MikeChile13/Leet_Codes/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/MikeChile13/Leet_Codes/tree/master/1396-count-servers-that-communicate) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/MikeChile13/Leet_Codes/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |

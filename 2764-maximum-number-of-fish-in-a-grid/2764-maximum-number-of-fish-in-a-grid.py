@@ -10,7 +10,8 @@ class Solution:
             return val + dfs(i+1,j) + dfs(i-1,j) + dfs(i,j+1) + dfs(i,j-1)
         for i in range(m):
             for j in range(n):
-                max_sum = max(max_sum,dfs(i,j))
+                if grid[i][j]:
+                    max_sum = max(max_sum,dfs(i,j))
         return max_sum
 
             

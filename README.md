@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/MikeChile13/Leet_Codes/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MikeChile13/Leet_Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3427-special-array-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3429-special-array-i) |
 ## String
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MikeChile13/Leet_Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/MikeChile13/Leet_Codes/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/2465-shifting-letters-ii) |
+| [3427-special-array-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3427-special-array-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/MikeChile13/Leet_Codes/tree/master/0374-guess-number-higher-or-lower) |
+| [3427-special-array-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |
 | ------- |

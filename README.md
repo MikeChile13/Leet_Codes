@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0022-generate-parentheses) |
 | [0878-shifting-letters](https://github.com/MikeChile13/Leet_Codes/tree/master/0878-shifting-letters) |
+| [0889-buddy-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MikeChile13/Leet_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/MikeChile13/Leet_Codes/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/1502-construct-k-palindrome-strings) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0219-contains-duplicate-ii) |
+| [0889-buddy-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MikeChile13/Leet_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/MikeChile13/Leet_Codes/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/1502-construct-k-palindrome-strings) |

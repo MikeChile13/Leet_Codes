@@ -3,7 +3,7 @@ class NumberContainers:
 
     def __init__(self):
         self.indices = dict()
-        self.vals = dict()
+        self.vals = defaultdict(SortedSet)
 
     def change(self, index: int, number: int) -> None:
         prev_value = self.indices.get(index,0)
@@ -14,8 +14,7 @@ class NumberContainers:
                 del self.vals[prev_value]
 
         self.indices[index] = number
-        if number not in self.vals:
-            self.vals[number] = SortedSet()
+
         self.vals[number].add(index)
 
     def find(self, number: int) -> int:

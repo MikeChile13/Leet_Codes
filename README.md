@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/MikeChile13/Leet_Codes/tree/master/0155-min-stack) |
 | [0859-design-circular-deque](https://github.com/MikeChile13/Leet_Codes/tree/master/0859-design-circular-deque) |
+| [2434-design-a-number-container-system](https://github.com/MikeChile13/Leet_Codes/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MikeChile13/Leet_Codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2427-first-letter-to-appear-twice](https://github.com/MikeChile13/Leet_Codes/tree/master/2427-first-letter-to-appear-twice) |
+| [2434-design-a-number-container-system](https://github.com/MikeChile13/Leet_Codes/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MikeChile13/Leet_Codes/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MikeChile13/Leet_Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MikeChile13/Leet_Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/MikeChile13/Leet_Codes/tree/master/2434-design-a-number-container-system) |
 ## Matrix
 |  |
 | ------- |
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/MikeChile13/Leet_Codes/tree/master/2048-build-array-from-permutation) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MikeChile13/Leet_Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/MikeChile13/Leet_Codes/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->

@@ -1,6 +1,10 @@
 class Solution:
     def digiSum(self, num:int) -> int:
-        return sum([int(val) for val in list(str(num))])
+        digit_sum = 0
+        while num > 0:
+            digit_sum += num % 10
+            num//=10
+        return digit_sum
     def maximumSum(self, nums: List[int]) -> int:
         seen = {}
         res = -1

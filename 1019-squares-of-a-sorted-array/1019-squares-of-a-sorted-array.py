@@ -1,10 +1,5 @@
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
-        min_heap = []
-        heapq.heapify(min_heap)
-        for num in nums:
-            heapq.heappush(min_heap,num**2)
-        res = []
-        while min_heap:
-            res.append(heapq.heappop(min_heap))
-        return res
+        for i in range(len(nums)):
+            nums[i] = nums[i]**2
+        return sorted(nums)

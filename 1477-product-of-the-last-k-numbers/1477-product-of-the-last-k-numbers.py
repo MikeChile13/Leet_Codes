@@ -1,24 +1,21 @@
 class ProductOfNumbers:
 
     def __init__(self):
-        self.zeros = [0]
+        self.lastZero = 0 
         self.prefixProduct = [1]
 
     def add(self, num: int) -> None:
         if num == 0:
             self.prefixProduct.append(self.prefixProduct[-1])
-            self.zeros.append(self.zeros[-1]+1)
+            self.lastZero = len(self.prefixProduct)-1
         else:
             self.prefixProduct.append(self.prefixProduct[-1]*num)
-            self.zeros.append(self.zeros[-1])
 
     def getProduct(self, k: int) -> int:
         stop = len(self.prefixProduct) - k - 1
-        zeroCount = self.zeros[-1] - self.zeros[stop]
-        if zeroCount:
+        if stop < self.lastZero:
             return 0
-        product = self.prefixProduct[-1] // self.prefixProduct[stop]
-        return product
+        return self.prefixProduct[-1] // self.prefixProduct[stop]
 
 #maintain a prefix product skiping zeros.
 #maintain a zero prefix array adding zeros.        

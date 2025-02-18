@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/MikeChile13/Leet_Codes/tree/master/0878-shifting-letters) |
 | [0883-car-fleet](https://github.com/MikeChile13/Leet_Codes/tree/master/0883-car-fleet) |
 | [0952-word-subsets](https://github.com/MikeChile13/Leet_Codes/tree/master/0952-word-subsets) |
+| [0979-di-string-match](https://github.com/MikeChile13/Leet_Codes/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1019-squares-of-a-sorted-array) |
 | [1364-tuple-with-same-product](https://github.com/MikeChile13/Leet_Codes/tree/master/1364-tuple-with-same-product) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MikeChile13/Leet_Codes/tree/master/1395-minimum-time-visiting-all-points) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MikeChile13/Leet_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/MikeChile13/Leet_Codes/tree/master/0952-word-subsets) |
+| [0979-di-string-match](https://github.com/MikeChile13/Leet_Codes/tree/master/0979-di-string-match) |
 | [1160-letter-tile-possibilities](https://github.com/MikeChile13/Leet_Codes/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1524-string-matching-in-an-array) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MikeChile13/Leet_Codes/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikeChile13/Leet_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
+| [0979-di-string-match](https://github.com/MikeChile13/Leet_Codes/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1019-squares-of-a-sorted-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MikeChile13/Leet_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0979-di-string-match](https://github.com/MikeChile13/Leet_Codes/tree/master/0979-di-string-match) |
 | [1502-construct-k-palindrome-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MikeChile13/Leet_Codes/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MikeChile13/Leet_Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |

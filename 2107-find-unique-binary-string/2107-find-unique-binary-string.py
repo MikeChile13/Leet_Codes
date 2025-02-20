@@ -1,12 +1,6 @@
 class Solution:
     def findDifferentBinaryString(self, nums: List[str]) -> str:
-        length = len(nums[0])
-        vals = set()
-        for num in nums:
-            vals.add(int(num,2))
-        for i in range(length+1):# it is garunteed to find 1 that is different.
-                                 #instead of 2**length checking all possibilities
-            if i not in vals:
-                res = bin(i)[2:]
-                return '0' * (length-len(res)) + res
-        return ''
+        ans = ''
+        for i in range(len(nums)):
+            ans += '1' if nums[i][i] == '0' else '0'
+        return ans

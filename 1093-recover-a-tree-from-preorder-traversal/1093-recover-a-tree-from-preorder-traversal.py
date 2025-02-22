@@ -38,6 +38,5 @@ class Solution:
                 height+=1
 
         arr.append((height,int(current_num)))
-        print(arr)
         
         return self.createTree(-1,arr)

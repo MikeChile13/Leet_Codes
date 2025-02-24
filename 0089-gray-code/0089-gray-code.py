@@ -1,5 +1,6 @@
 class Solution:
     def grayCode(self, n: int) -> List[int]:
+        # https://www.youtube.com/watch?v=xG8qJ_U0XPg
         if n == 1:
             return [0,1]
         base = ['00','01','11','10']

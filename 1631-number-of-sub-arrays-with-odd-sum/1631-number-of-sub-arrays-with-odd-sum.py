@@ -8,9 +8,9 @@ class Solution:
         for num in arr:
             running_sum += num
             if running_sum & 1:
-                res = (res + even_count ) % MOD
+                res += even_count
                 odd_count +=1
             else:
-                res = ( res + odd_count ) % MOD
+                res += odd_count
                 even_count +=1
-        return res
+        return res%MOD

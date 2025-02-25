@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1524-string-matching-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MikeChile13/Leet_Codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MikeChile13/Leet_Codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MikeChile13/Leet_Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0878-shifting-letters](https://github.com/MikeChile13/Leet_Codes/tree/master/0878-shifting-letters) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MikeChile13/Leet_Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/MikeChile13/Leet_Codes/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/2465-shifting-letters-ii) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MikeChile13/Leet_Codes/tree/master/0042-trapping-rain-water) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0445-add-two-numbers-ii) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MikeChile13/Leet_Codes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |

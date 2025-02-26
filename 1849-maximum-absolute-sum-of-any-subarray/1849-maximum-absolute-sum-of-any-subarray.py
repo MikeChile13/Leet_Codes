@@ -1,4 +1,5 @@
 from itertools import accumulate
 class Solution:
     def maxAbsoluteSum(self, nums: List[int]) -> int:
-        return max(accumulate(nums,initial=0)) - min(accumulate(nums,initial=0))
+        sums = list(accumulate(nums,initial=0))
+        return max(sums) - min(sums)

@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/MikeChile13/Leet_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/MikeChile13/Leet_Codes/tree/master/0952-word-subsets) |
 | [0979-di-string-match](https://github.com/MikeChile13/Leet_Codes/tree/master/0979-di-string-match) |
+| [1023-time-based-key-value-store](https://github.com/MikeChile13/Leet_Codes/tree/master/1023-time-based-key-value-store) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MikeChile13/Leet_Codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/MikeChile13/Leet_Codes/tree/master/1160-letter-tile-possibilities) |
 | [1502-construct-k-palindrome-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/1502-construct-k-palindrome-strings) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/MikeChile13/Leet_Codes/tree/master/0155-min-stack) |
 | [0307-range-sum-query-mutable](https://github.com/MikeChile13/Leet_Codes/tree/master/0307-range-sum-query-mutable) |
 | [0859-design-circular-deque](https://github.com/MikeChile13/Leet_Codes/tree/master/0859-design-circular-deque) |
+| [1023-time-based-key-value-store](https://github.com/MikeChile13/Leet_Codes/tree/master/1023-time-based-key-value-store) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MikeChile13/Leet_Codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/MikeChile13/Leet_Codes/tree/master/2434-design-a-number-container-system) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MikeChile13/Leet_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/MikeChile13/Leet_Codes/tree/master/0952-word-subsets) |
+| [1023-time-based-key-value-store](https://github.com/MikeChile13/Leet_Codes/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/MikeChile13/Leet_Codes/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/MikeChile13/Leet_Codes/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MikeChile13/Leet_Codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/MikeChile13/Leet_Codes/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/MikeChile13/Leet_Codes/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MikeChile13/Leet_Codes/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/MikeChile13/Leet_Codes/tree/master/1023-time-based-key-value-store) |
 | [3427-special-array-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |

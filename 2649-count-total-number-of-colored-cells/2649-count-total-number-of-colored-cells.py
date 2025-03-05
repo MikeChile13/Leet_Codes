@@ -6,10 +6,8 @@ class Solution:
     #         return 1
     #     return self.coloredCells(n-1) + 4*(n-1)
     #     print(findN(n))
-    
-        S_0 = 1
-        S = 0
-        for N in range(1,n+1):
-            S = S_0 + 4*(N - 1)
-            S_0 = S
+
+        S = 1
+        for N in range(2,n+1):
+            S = S + 4*(N - 1)
         return S

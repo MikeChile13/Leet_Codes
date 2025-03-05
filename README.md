@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/MikeChile13/Leet_Codes/tree/master/2491-smallest-even-multiple) |
+| [2556-convert-the-temperature](https://github.com/MikeChile13/Leet_Codes/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/MikeChile13/Leet_Codes/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Interactive

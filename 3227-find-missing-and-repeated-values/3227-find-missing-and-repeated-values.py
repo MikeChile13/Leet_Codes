@@ -1,20 +1,30 @@
 class Solution:
     def findMissingAndRepeatedValues(self, grid: List[List[int]]) -> List[int]:
         n = len(grid[0])
-        val = (n*n) * ((n*n) + 1) // 2
-        seen = set()
-        res = []
-        # print(val)
+
+
+        # Efficiently sort the grid using Cyclic sort
         for i in range(n):
-            for j in range(n):
-                if grid[i][j] in seen:
-                    res.append(grid[i][j])
-                else:
-                    seen.add(grid[i][j])
-                    val -= grid[i][j]
+            j = 0
+            while j < n:
+                if grid[i][j] != n*i + j+1:
+                    row = math.ceil(grid[i][j] / n)
+                    col = grid[i][j] % n
+                    if not col:
+                        col = n
+                    
+                    if grid[i][j] != grid[row - 1][col - 1]:
+                        grid[i][j],grid[row - 1][col - 1] = grid[row-1][col - 1],grid[i][j]
+                        continue
+                j += 1
+            
                 
-        res.append(val)
-        return res
+        # Find the missing and repeation values
+        for r in range(n):
+            for c in range(n):
+                if grid[r][c] != n*r + c + 1:
+                    return [grid[r][c], n*r + c + 1]
+        return []
 
 
         

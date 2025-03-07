@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/MikeChile13/Leet_Codes/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/MikeChile13/Leet_Codes/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/MikeChile13/Leet_Codes/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2610-closest-prime-numbers-in-range](https://github.com/MikeChile13/Leet_Codes/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/MikeChile13/Leet_Codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/MikeChile13/Leet_Codes/tree/master/3227-find-missing-and-repeated-values) |
@@ -508,4 +509,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/MikeChile13/Leet_Codes/tree/master/2491-smallest-even-multiple) |
+| [2610-closest-prime-numbers-in-range](https://github.com/MikeChile13/Leet_Codes/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->

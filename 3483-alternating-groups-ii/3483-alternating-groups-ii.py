@@ -1,15 +1,30 @@
 class Solution:
     def numberOfAlternatingGroups(self, colors: List[int], k: int) -> int:
-        count = 0
-        res = 0
         n = len(colors)
-        for i in range(1,n+k):
-            if colors[i%n] != colors[(i-1)%n]:
-                count+=1
-            else:
-                count = 1
+        res = 0
+        first = colors[0]
+
+        i = 0
+
+        while i < n:
+            j = i + 1
+            while j < n and colors[j] != colors[j - 1]:
+                j += 1
+
+            count = j - i
+            
+            if j == n and colors[-1] != first:
+                if i == 0:
+                    return n
+                    
+                if colors[0] >= k:
+                    res -= colors[0] - k + 1
+                count += colors[0]
+            
             if count >= k:
-                res +=1
-        # print(colors)
+                res += count - k + 1
+
+            colors[i] = count
+            i = j
+   
         return res
-        

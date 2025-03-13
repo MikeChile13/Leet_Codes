@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/MikeChile13/Leet_Codes/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3463-alternating-groups-i) |
 | [3483-alternating-groups-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3643-zero-array-transformation-ii) |
 ## String
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/2465-shifting-letters-ii) |
 | [3031-construct-product-matrix](https://github.com/MikeChile13/Leet_Codes/tree/master/3031-construct-product-matrix) |
 | [3427-special-array-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3643-zero-array-transformation-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/MikeChile13/Leet_Codes/tree/master/1023-time-based-key-value-store) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3427-special-array-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
 | ------- |

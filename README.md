@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/MikeChile13/Leet_Codes/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/MikeChile13/Leet_Codes/tree/master/1095-two-city-scheduling) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/MikeChile13/Leet_Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/MikeChile13/Leet_Codes/tree/master/1364-tuple-with-same-product) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MikeChile13/Leet_Codes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1396-count-servers-that-communicate](https://github.com/MikeChile13/Leet_Codes/tree/master/1396-count-servers-that-communicate) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/MikeChile13/Leet_Codes/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MikeChile13/Leet_Codes/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/MikeChile13/Leet_Codes/tree/master/1023-time-based-key-value-store) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/MikeChile13/Leet_Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3427-special-array-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3643-zero-array-transformation-ii) |

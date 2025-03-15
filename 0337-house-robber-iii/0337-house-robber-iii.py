@@ -6,21 +6,17 @@
 #         self.right = right
 class Solution:
     def rob(self, root: Optional[TreeNode]) -> int:
-        memo = {}
-        return self.dfs(root,False,memo)
+        return max(self.dfs(root))
 
-    def dfs(self,root: Optional[TreeNode] ,parent_robbed: bool, memo: dict) -> int:
-
+    def dfs(self,root: Optional[TreeNode]) -> int:
         if not root:
-            return 0
+            return [0,0]
 
-        rob = 0
-        if (root,parent_robbed) in memo:
-            return memo[(root,parent_robbed)]
-        if not parent_robbed:
-            rob = root.val + self.dfs(root.left,True,memo) + self.dfs(root.right,True,memo)
+        left = self.dfs(root.left)
+        right = self.dfs(root.right)
 
-        skip = self.dfs(root.left,False,memo) + self.dfs(root.right,False,memo)
+        with_root = root.val + left[1] + right[1]
 
-        memo[(root,parent_robbed)] = max(rob,skip)
-        return memo[(root,parent_robbed)]
+        without_root = max(left) + max(right)
+
+        return [with_root,without_root] 

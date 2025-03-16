@@ -1,18 +1,25 @@
 class Solution:
     def repairCars(self, ranks: List[int], cars: int) -> int:
-        sim = [0]*len(ranks)
-        min_heap = []
-        for i in range(len(ranks)):
-            heapq.heappush(min_heap,(ranks[i],i))
-        
-        for _ in range(cars):
-            _,index = heapq.heappop(min_heap)
-            sim[index] +=1
+        def fixTime(mid):
+            count = 0
+            for r in ranks:
+                count += int(math.sqrt(mid/r))
+            
+            # print(mid,count)
+            return count >= cars
 
-            r = ranks[index]
-            n = sim[index]+1
-            heapq.heappush(min_heap,(r*(n**2),index))
-        ans = 0
-        for i,val in enumerate(sim):
-            ans = max(ans,ranks[i]*(val**2))
-        return ans
+        n = math.ceil(len(ranks)/cars)
+        left,right = 1, max(ranks)*cars**2
+
+        res = 0
+        while left <= right:
+            mid = left + (right - left)//2
+
+            if fixTime(mid):
+                right = mid - 1     
+            else:
+                left = mid + 1
+                res = mid
+        return res + 1
+
+    

@@ -9,7 +9,7 @@ class Solution:
             return count >= cars
 
         n = math.ceil(len(ranks)/cars)
-        left,right = 1, max(ranks)*cars**2
+        left,right = 1, min(ranks)*cars**2
 
         res = 0
         while left <= right:

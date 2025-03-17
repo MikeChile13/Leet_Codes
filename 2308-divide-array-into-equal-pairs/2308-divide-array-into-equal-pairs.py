@@ -1,9 +1,12 @@
 class Solution:
     def divideArray(self, nums: List[int]) -> bool:
-        Freqs = Counter(nums)
-        length = len(nums)
+        freq = {}
+        odds = 0
+        for num in nums:
+            freq[num] = freq.get(num,0) + 1
+            if freq[num] % 2:
+                odds += 1
+            else:
+                odds -= 1
 
-        for key,freq in Freqs.items():
-            if freq % 2:
-                return False
-        return True
+        return not odds

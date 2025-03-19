@@ -14,6 +14,8 @@ class Solution:
                 xor ^= nums[left]
                 left += 1
             ans = max(ans,right - left + 1)
+            if ans == 30:
+                return ans
             right += 1
         return ans
 

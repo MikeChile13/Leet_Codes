@@ -1,25 +1,19 @@
 class Solution:
-    def longestNiceSubarray(self, nums: list[int]) -> int:
-        max_length = 1  # Track the maximum nice subarray length found
+    def longestNiceSubarray(self, nums: List[int]) -> int:
+        xor = 0
+        sumv = 0
+        left,right = 0,0
+        ans = 0
+        #if the and of any group of number s is equal to the sum, the and is equal to 0.
+        #from that sliding window is implemented.
+        while right < len(nums):
+            xor ^= nums[right]
+            sumv += nums[right]
+            while sumv != xor:#shrinking the window when there is a conflict
+                sumv -= nums[left]
+                xor ^= nums[left]
+                left += 1
+            ans = max(ans,right - left + 1)
+            right += 1
+        return ans
 
-        for start in range(len(nums) - max_length):
-            current_length = 1  # Length of current nice subarray
-            used_bits = nums[start]  # Track which bits are used in our subarray
-
-            # Try to extend the subarray
-            for end in range(start + 1, len(nums)):
-                # If no bits overlap between current number and used bits, we can extend
-                if (used_bits & nums[end]) == 0:
-                    used_bits |= nums[
-                        end
-                    ]  # Add new number's bits to our tracker
-                    current_length += 1
-                # If bits overlap, this number can't be part of our nice subarray
-                else:
-                    break
-
-            # Update max length if we found a longer nice subarray
-            max_length = max(max_length, current_length)
-
-        return max_length
-        

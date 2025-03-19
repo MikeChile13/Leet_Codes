@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MikeChile13/Leet_Codes/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0022-generate-parentheses) |
+| [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0878-shifting-letters](https://github.com/MikeChile13/Leet_Codes/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MikeChile13/Leet_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0889-buddy-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MikeChile13/Leet_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MikeChile13/Leet_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/MikeChile13/Leet_Codes/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/MikeChile13/Leet_Codes/tree/master/1364-tuple-with-same-product) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/MikeChile13/Leet_Codes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0883-car-fleet](https://github.com/MikeChile13/Leet_Codes/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/MikeChile13/Leet_Codes/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0958-sort-array-by-parity-ii) |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0407-trapping-rain-water-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MikeChile13/Leet_Codes/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -561,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/MikeChile13/Leet_Codes/tree/master/0204-count-primes) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

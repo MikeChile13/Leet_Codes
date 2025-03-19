@@ -19,9 +19,9 @@ class Solution:
                 else:
                     c = str(i-52)
                 heapq.heappush(max_heap,(-v,c))
-        res = []
+        res = ''
         while max_heap:
             v, c = heapq.heappop(max_heap)
-            res.extend([c]* -v)
+            res += c * -v
         
-        return ''.join(res)
+        return res

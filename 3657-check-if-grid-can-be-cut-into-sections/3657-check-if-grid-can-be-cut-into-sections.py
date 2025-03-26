@@ -10,9 +10,8 @@ class Solution:
             else:
                 count += 1
                 prev_end = end
-        if count >= 2:
-            return True
-
+                if count == 2:
+                    return True
         count = 0
         rectangles.sort(key=lambda x: x[1])
         prev_end = rectangles[0][3]
@@ -23,5 +22,7 @@ class Solution:
             else:
                 count += 1
                 prev_end = end
-        return count >= 2
+                if count == 2:
+                    return True
+        return False
 

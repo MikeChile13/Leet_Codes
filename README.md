@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0022-generate-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
+| [0768-partition-labels](https://github.com/MikeChile13/Leet_Codes/tree/master/0768-partition-labels) |
 | [0878-shifting-letters](https://github.com/MikeChile13/Leet_Codes/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MikeChile13/Leet_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
+| [0768-partition-labels](https://github.com/MikeChile13/Leet_Codes/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MikeChile13/Leet_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MikeChile13/Leet_Codes/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikeChile13/Leet_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
+| [0768-partition-labels](https://github.com/MikeChile13/Leet_Codes/tree/master/0768-partition-labels) |
 | [0941-sort-array-by-parity](https://github.com/MikeChile13/Leet_Codes/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/MikeChile13/Leet_Codes/tree/master/0979-di-string-match) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/MikeChile13/Leet_Codes/tree/master/0435-non-overlapping-intervals) |
+| [0768-partition-labels](https://github.com/MikeChile13/Leet_Codes/tree/master/0768-partition-labels) |
 | [0979-di-string-match](https://github.com/MikeChile13/Leet_Codes/tree/master/0979-di-string-match) |
 | [1095-two-city-scheduling](https://github.com/MikeChile13/Leet_Codes/tree/master/1095-two-city-scheduling) |
 | [1502-construct-k-palindrome-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/1502-construct-k-palindrome-strings) |

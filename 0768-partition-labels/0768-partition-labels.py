@@ -1,23 +1,25 @@
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
-        ends = dict()
+        freq = Counter(s)
+        start = 0
+        window = Counter()
+        parts = []
+        
+        
+        for i in range(len(s)):
+            char = s[i]
+            if char not in window:
+                window[char] = freq[char]
 
-        for i,char in enumerate(s):
-            ends[char] = i
+            window[char] -= 1
+            if window[char] == 0:
+                del window[char]
 
-       
-        res = []
-        prev_start = 0
-        prev_end = ends[s[0]]
+            if len(window) == 0:
+                parts.append(i - start + 1)
+                start = i + 1
 
-
-        for i in range(len(s) - 1):
-            if i == prev_end:
-                res.append(i - prev_start + 1)
-                prev_start = i + 1
-                prev_end = ends[s[i + 1]]
-            prev_end = max(ends[s[i]], prev_end)
-
-        res.append(prev_end - prev_start + 1)
-        return res
+        return parts
             
+                
+

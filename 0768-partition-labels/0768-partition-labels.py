@@ -1,23 +1,23 @@
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
-        intervals = dict()
+        ends = dict()
 
         for i,char in enumerate(s):
-            if char not in intervals:
-                intervals[char] = [i,i]
-            intervals[char][1] = i
+            ends[char] = i
 
-        intervals = list(intervals.values())
-        # print(intervals)
-        merged = [intervals[0]]
+       
+        res = []
+        prev_start = 0
+        prev_end = ends[s[0]]
 
-        for i in range(1,len(intervals)):
-            if intervals[i][0] <= merged[-1][1]:
-                merged[-1][0] = min(merged[-1][0],intervals[i][0])
-                merged[-1][1] = max(merged[-1][1],intervals[i][1])
-            else:
-                merged.append(intervals[i])
-                
-        # print(merged)
-        return [end - start + 1 for start,end in merged]
+
+        for i in range(len(s) - 1):
+            if i == prev_end:
+                res.append(i - prev_start + 1)
+                prev_start = i + 1
+                prev_end = ends[s[i + 1]]
+            prev_end = max(ends[s[i]], prev_end)
+
+        res.append(prev_end - prev_start + 1)
+        return res
             

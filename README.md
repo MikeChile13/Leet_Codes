@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikeChile13/Leet_Codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2050-count-good-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/MikeChile13/Leet_Codes/tree/master/2491-smallest-even-multiple) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MikeChile13/Leet_Codes/tree/master/0025-reverse-nodes-in-k-group) |
+| [2050-count-good-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
 |  |
 | ------- |

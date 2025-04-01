@@ -1,14 +1,13 @@
 class Solution:
     def mostPoints(self, questions: List[List[int]]) -> int:
         n = len(questions)
-        @cache
-        def forward_tracking(index):
-            if index >= n:
-                return 0
-                
-            take = questions[index][0] + forward_tracking(index + questions[index][1] + 1)
-            skip = forward_tracking(index + 1)
+        dp = [0] * n
 
-            return max(take,skip)
+        for i in range(n-1, -1, -1):
+            points, jumps = questions[i]
+            take = points + dp[jumps + i + 1] if jumps + i + 1 < n else points
+            not_take = dp[i+1] if i + 1 < n else 0
+            dp[i] = max(take, not_take)
+
+        return dp[0]
         
-        return forward_tracking(0)

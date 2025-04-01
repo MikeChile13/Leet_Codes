@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MikeChile13/Leet_Codes/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0022-generate-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/MikeChile13/Leet_Codes/tree/master/0768-partition-labels) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MikeChile13/Leet_Codes/tree/master/0012-integer-to-roman) |
 | [0089-gray-code](https://github.com/MikeChile13/Leet_Codes/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikeChile13/Leet_Codes/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/MikeChile13/Leet_Codes/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0268-missing-number) |

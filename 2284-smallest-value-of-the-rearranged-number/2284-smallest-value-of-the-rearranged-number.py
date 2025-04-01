@@ -8,7 +8,6 @@ class Solution:
         while num:
                 vals.append(num%10)
                 num //= 10
-
         n = len(vals)
         if sign:
             vals.sort()
@@ -17,14 +16,15 @@ class Solution:
                 if vals[i] == 0 and i < n-1:
                     vals[0],vals[i+1] = vals[i+1],vals[0]
                     break
-
+            sign = vals[0]
+            for i in range(1,n):
+                sign = sign*10 + vals[i]
+            return sign
+            
         else:
             vals.sort(reverse = True)
             val = vals[0]
+            for i in range(1,n):
+                val = val*10 + vals[i]
 
-        ans = ''
-        print(vals)
-        for val in vals:
-            ans += str(val)
-        
-        return int(ans) if sign else int('-'+ans)
+            return -val

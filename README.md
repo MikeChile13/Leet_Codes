@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-determine-if-two-events-have-conflict](https://github.com/MikeChile13/Leet_Codes/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2551-apply-operations-to-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MikeChile13/Leet_Codes/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MikeChile13/Leet_Codes/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/MikeChile13/Leet_Codes/tree/master/2681-put-marbles-in-bags) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2434-design-a-number-container-system](https://github.com/MikeChile13/Leet_Codes/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MikeChile13/Leet_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MikeChile13/Leet_Codes/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikeChile13/Leet_Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MikeChile13/Leet_Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/MikeChile13/Leet_Codes/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MikeChile13/Leet_Codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MikeChile13/Leet_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2681-put-marbles-in-bags](https://github.com/MikeChile13/Leet_Codes/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MikeChile13/Leet_Codes/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/MikeChile13/Leet_Codes/tree/master/3001-apply-operations-to-maximize-score) |

@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/MikeChile13/Leet_Codes/tree/master/3001-apply-operations-to-maximize-score) |
 | [3031-construct-product-matrix](https://github.com/MikeChile13/Leet_Codes/tree/master/3031-construct-product-matrix) |
 | [3034-points-that-intersect-with-cars](https://github.com/MikeChile13/Leet_Codes/tree/master/3034-points-that-intersect-with-cars) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MikeChile13/Leet_Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/MikeChile13/Leet_Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |

@@ -9,6 +9,6 @@ class Solution:
         max_score = 0
         max_left = nums[0]
         for i in range(1,n-1):
-            max_score = max(max_score,( max_left - nums[i] ) * right[i + 1])
+            max_score = max(max_score,( max_left - nums[i] ) * right[i-1])
             max_left = max(max_left,nums[i])
         return max_score

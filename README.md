@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3034-points-that-intersect-with-cars](https://github.com/MikeChile13/Leet_Codes/tree/master/3034-points-that-intersect-with-cars) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MikeChile13/Leet_Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/MikeChile13/Leet_Codes/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |

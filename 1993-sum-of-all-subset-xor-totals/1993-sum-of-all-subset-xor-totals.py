@@ -1,11 +1,14 @@
 class Solution:
     def subsetXORSum(self, nums: List[int]) -> int:
-        total_subsets = [0]
-        for num in nums:
-            n = len(total_subsets)
-            for i in range(n):
-                xor = total_subsets[i]
-                total_subsets.append(xor^num)
-        # print(total_subsets)
-        return sum(total_subsets)
+        n = len(nums)
+        def backtrack(index,xor):
+            if index >= n:
+                return xor
 
+            not_take = backtrack(index + 1,xor)
+
+            take = backtrack(index + 1,xor^nums[index])
+            
+            return not_take + take
+
+        return backtrack(0,0)

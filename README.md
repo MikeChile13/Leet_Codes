@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/MikeChile13/Leet_Codes/tree/master/0307-range-sum-query-mutable) |
 | [0368-largest-divisible-subset](https://github.com/MikeChile13/Leet_Codes/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MikeChile13/Leet_Codes/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MikeChile13/Leet_Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/MikeChile13/Leet_Codes/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/MikeChile13/Leet_Codes/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/MikeChile13/Leet_Codes/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MikeChile13/Leet_Codes/tree/master/0435-non-overlapping-intervals) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/MikeChile13/Leet_Codes/tree/master/1170-shortest-common-supersequence) |

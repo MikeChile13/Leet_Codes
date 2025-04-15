@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MikeChile13/Leet_Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/MikeChile13/Leet_Codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MikeChile13/Leet_Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/MikeChile13/Leet_Codes/tree/master/2048-build-array-from-permutation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MikeChile13/Leet_Codes/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/MikeChile13/Leet_Codes/tree/master/0859-design-circular-deque) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/MikeChile13/Leet_Codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikeChile13/Leet_Codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/MikeChile13/Leet_Codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1965-sum-of-digits-in-base-k](https://github.com/MikeChile13/Leet_Codes/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MikeChile13/Leet_Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/2050-count-good-numbers) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MikeChile13/Leet_Codes/tree/master/0025-reverse-nodes-in-k-group) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/MikeChile13/Leet_Codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
 |  |
@@ -638,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/MikeChile13/Leet_Codes/tree/master/0495-teemo-attacking) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/MikeChile13/Leet_Codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MikeChile13/Leet_Codes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/MikeChile13/Leet_Codes/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikeChile13/Leet_Codes/tree/master/2265-partition-array-according-to-given-pivot) |

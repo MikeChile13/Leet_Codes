@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0022-generate-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0179-largest-number) |
+| [0344-reverse-string](https://github.com/MikeChile13/Leet_Codes/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0768-partition-labels](https://github.com/MikeChile13/Leet_Codes/tree/master/0768-partition-labels) |
 | [0878-shifting-letters](https://github.com/MikeChile13/Leet_Codes/tree/master/0878-shifting-letters) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/MikeChile13/Leet_Codes/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikeChile13/Leet_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
+| [0344-reverse-string](https://github.com/MikeChile13/Leet_Codes/tree/master/0344-reverse-string) |
 | [0768-partition-labels](https://github.com/MikeChile13/Leet_Codes/tree/master/0768-partition-labels) |
 | [0941-sort-array-by-parity](https://github.com/MikeChile13/Leet_Codes/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0958-sort-array-by-parity-ii) |

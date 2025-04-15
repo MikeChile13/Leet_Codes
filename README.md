@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/MikeChile13/Leet_Codes/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/MikeChile13/Leet_Codes/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/MikeChile13/Leet_Codes/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/MikeChile13/Leet_Codes/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/MikeChile13/Leet_Codes/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
@@ -702,4 +704,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MikeChile13/Leet_Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

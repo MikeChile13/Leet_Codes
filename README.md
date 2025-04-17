@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MikeChile13/Leet_Codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MikeChile13/Leet_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/MikeChile13/Leet_Codes/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MikeChile13/Leet_Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MikeChile13/Leet_Codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1970-sorting-the-sentence](https://github.com/MikeChile13/Leet_Codes/tree/master/1970-sorting-the-sentence) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/MikeChile13/Leet_Codes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/MikeChile13/Leet_Codes/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikeChile13/Leet_Codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MikeChile13/Leet_Codes/tree/master/1951-find-the-winner-of-the-circular-game) |

@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MikeChile13/Leet_Codes/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MikeChile13/Leet_Codes/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1500-count-largest-group](https://github.com/MikeChile13/Leet_Codes/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MikeChile13/Leet_Codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-powerful-integers](https://github.com/MikeChile13/Leet_Codes/tree/master/1010-powerful-integers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MikeChile13/Leet_Codes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1477-product-of-the-last-k-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/MikeChile13/Leet_Codes/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/MikeChile13/Leet_Codes/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikeChile13/Leet_Codes/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |

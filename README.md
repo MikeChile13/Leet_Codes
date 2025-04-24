@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MikeChile13/Leet_Codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/MikeChile13/Leet_Codes/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1797-goal-parser-interpretation](https://github.com/MikeChile13/Leet_Codes/tree/master/1797-goal-parser-interpretation) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/MikeChile13/Leet_Codes/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MikeChile13/Leet_Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/MikeChile13/Leet_Codes/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |

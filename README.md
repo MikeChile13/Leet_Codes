@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MikeChile13/Leet_Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/MikeChile13/Leet_Codes/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/MikeChile13/Leet_Codes/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/MikeChile13/Leet_Codes/tree/master/0038-count-and-say) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MikeChile13/Leet_Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MikeChile13/Leet_Codes/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/MikeChile13/Leet_Codes/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0219-contains-duplicate-ii) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/MikeChile13/Leet_Codes/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/0013-roman-to-integer) |
 | [0089-gray-code](https://github.com/MikeChile13/Leet_Codes/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikeChile13/Leet_Codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0171-excel-sheet-column-number) |

@@ -1,11 +1,10 @@
 class Solution:
     def smallerNumbersThanCurrent(self, nums: List[int]) -> List[int]:
-
-        map = {}
-        res = []
-        for i,number in enumerate(sorted(nums)):
-            if number not in map:
-                map[number] = i
-        for num in nums:
-            res.append(map[num])
+        res = [0]*len(nums)
+        for i in range(len(nums)):
+            for j in range(len(nums)):
+                if nums[j] == nums[i]:
+                    continue
+                res[i] += (nums[j] < nums[i])
+                
         return res

@@ -744,5 +744,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0495-teemo-attacking](https://github.com/MikeChile13/Leet_Codes/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/MikeChile13/Leet_Codes/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/MikeChile13/Leet_Codes/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0695-max-area-of-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/MikeChile13/Leet_Codes/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/MikeChile13/Leet_Codes/tree/master/0792-binary-search) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MikeChile13/Leet_Codes/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/MikeChile13/Leet_Codes/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/MikeChile13/Leet_Codes/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0768-partition-labels](https://github.com/MikeChile13/Leet_Codes/tree/master/0768-partition-labels) |
 | [0878-shifting-letters](https://github.com/MikeChile13/Leet_Codes/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/0889-buddy-strings) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/MikeChile13/Leet_Codes/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/MikeChile13/Leet_Codes/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0768-partition-labels](https://github.com/MikeChile13/Leet_Codes/tree/master/0768-partition-labels) |
 | [0889-buddy-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/0889-buddy-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |

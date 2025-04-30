@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/MikeChile13/Leet_Codes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/MikeChile13/Leet_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MikeChile13/Leet_Codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MikeChile13/Leet_Codes/tree/master/2665-minimum-time-to-repair-cars) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MikeChile13/Leet_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/MikeChile13/Leet_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MikeChile13/Leet_Codes/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikeChile13/Leet_Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/MikeChile13/Leet_Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikeChile13/Leet_Codes/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MikeChile13/Leet_Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2551-apply-operations-to-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/MikeChile13/Leet_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MikeChile13/Leet_Codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikeChile13/Leet_Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MikeChile13/Leet_Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MikeChile13/Leet_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/MikeChile13/Leet_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MikeChile13/Leet_Codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/MikeChile13/Leet_Codes/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/2699-count-the-number-of-fair-pairs) |

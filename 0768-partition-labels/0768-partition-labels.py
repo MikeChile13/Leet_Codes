@@ -1,25 +1,24 @@
 class Solution:
     def partitionLabels(self, s: str) -> List[int]:
-        freq = Counter(s)
-        start = 0
-        window = Counter()
-        parts = []
+        ranges = defaultdict()
+        for index,char in enumerate(s):
+            if char not in ranges:
+                ranges[char] = [index,index]
+            else:
+                ranges[char][1] = index
+        # print(ranges)
+        ranges = sorted(list(ranges.values()))
+        print(ranges)
+        res = []
+        start,end = ranges[0]
+        for i in range(1,len(ranges)):
+            if ranges[i][0] > end:
+                res.append([start,end])
+                start,end = ranges[i]
+            else:
+                end = max(ranges[i][1],end)
+                start = min(ranges[i][0],start)
+
+        res.append([start,end])
         
-        
-        for i in range(len(s)):
-            char = s[i]
-            if char not in window:
-                window[char] = freq[char]
-
-            window[char] -= 1
-            if window[char] == 0:
-                del window[char]
-
-            if len(window) == 0:
-                parts.append(i - start + 1)
-                start = i + 1
-
-        return parts
-            
-                
-
+        return [end - start+1 for start,end in res]

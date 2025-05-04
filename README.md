@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/MikeChile13/Leet_Codes/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1019-squares-of-a-sorted-array) |
 | [1095-two-city-scheduling](https://github.com/MikeChile13/Leet_Codes/tree/master/1095-two-city-scheduling) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MikeChile13/Leet_Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/MikeChile13/Leet_Codes/tree/master/1364-tuple-with-same-product) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MikeChile13/Leet_Codes/tree/master/1395-minimum-time-visiting-all-points) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-powerful-integers](https://github.com/MikeChile13/Leet_Codes/tree/master/1010-powerful-integers) |
 | [1023-time-based-key-value-store](https://github.com/MikeChile13/Leet_Codes/tree/master/1023-time-based-key-value-store) |
 | [1160-letter-tile-possibilities](https://github.com/MikeChile13/Leet_Codes/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/MikeChile13/Leet_Codes/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MikeChile13/Leet_Codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MikeChile13/Leet_Codes/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/MikeChile13/Leet_Codes/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1160-letter-tile-possibilities](https://github.com/MikeChile13/Leet_Codes/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/MikeChile13/Leet_Codes/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/MikeChile13/Leet_Codes/tree/master/1396-count-servers-that-communicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |

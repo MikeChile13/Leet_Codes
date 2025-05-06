@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MikeChile13/Leet_Codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MikeChile13/Leet_Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MikeChile13/Leet_Codes/tree/master/0042-trapping-rain-water) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MikeChile13/Leet_Codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MikeChile13/Leet_Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MikeChile13/Leet_Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MikeChile13/Leet_Codes/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/MikeChile13/Leet_Codes/tree/master/0435-non-overlapping-intervals) |
 | [0768-partition-labels](https://github.com/MikeChile13/Leet_Codes/tree/master/0768-partition-labels) |

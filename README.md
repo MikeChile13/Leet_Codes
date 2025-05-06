@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MikeChile13/Leet_Codes/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MikeChile13/Leet_Codes/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/MikeChile13/Leet_Codes/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/MikeChile13/Leet_Codes/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/MikeChile13/Leet_Codes/tree/master/0941-sort-array-by-parity) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/MikeChile13/Leet_Codes/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/MikeChile13/Leet_Codes/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/MikeChile13/Leet_Codes/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MikeChile13/Leet_Codes/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/MikeChile13/Leet_Codes/tree/master/1023-time-based-key-value-store) |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MikeChile13/Leet_Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0633-sum-of-square-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/0633-sum-of-square-numbers) |
 | [1010-powerful-integers](https://github.com/MikeChile13/Leet_Codes/tree/master/1010-powerful-integers) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MikeChile13/Leet_Codes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MikeChile13/Leet_Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |

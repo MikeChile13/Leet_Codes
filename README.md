@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/MikeChile13/Leet_Codes/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/MikeChile13/Leet_Codes/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/MikeChile13/Leet_Codes/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MikeChile13/Leet_Codes/tree/master/0907-koko-eating-bananas) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/MikeChile13/Leet_Codes/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/MikeChile13/Leet_Codes/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/MikeChile13/Leet_Codes/tree/master/0368-largest-divisible-subset) |
 | [0445-add-two-numbers-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MikeChile13/Leet_Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |

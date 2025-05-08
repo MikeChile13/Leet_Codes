@@ -1,25 +1,18 @@
 class Solution:
     def minimumRecolors(self, blocks: str, k: int) -> int:
-        i,j = 0,0
-        changes = 0
-        n = len(blocks)
-        for j in range(k):
-            if blocks[j] == "W":
-                changes +=1
-        j+=1
-        min_changes = changes
-        while j < n:
-            if blocks[j] == blocks[i]:
-                j+=1
-                i+=1
-                continue
-            elif blocks[i] == "W":
-                changes-=1
-                min_changes = min(min_changes,changes)
+        def solve(blocks, k,n):
+    
+            operations = 0
+            for i in range(k):
+                operations += (blocks[i] == 'W')
+            
+            minimum_operations = operations
+            for i in range(k,n):
+                operations += (blocks[i] =='W')
+                operations -= (blocks[i-k] =='W')
                 
-            else:
-                changes +=1
-            j+=1
-            i+=1
-        return min_changes
+                minimum_operations = min(minimum_operations, operations)
+                
+            return minimum_operations
         
+        return solve(blocks,k,len(blocks))

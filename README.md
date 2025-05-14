@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MikeChile13/Leet_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/MikeChile13/Leet_Codes/tree/master/2478-longest-nice-subarray) |
+| [2502-sort-the-people](https://github.com/MikeChile13/Leet_Codes/tree/master/2502-sort-the-people) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/MikeChile13/Leet_Codes/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/MikeChile13/Leet_Codes/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2551-apply-operations-to-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2551-apply-operations-to-an-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MikeChile13/Leet_Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/MikeChile13/Leet_Codes/tree/master/2470-removing-stars-from-a-string) |
+| [2502-sort-the-people](https://github.com/MikeChile13/Leet_Codes/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/MikeChile13/Leet_Codes/tree/master/2536-determine-if-two-events-have-conflict) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/MikeChile13/Leet_Codes/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MikeChile13/Leet_Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MikeChile13/Leet_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2502-sort-the-people](https://github.com/MikeChile13/Leet_Codes/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MikeChile13/Leet_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MikeChile13/Leet_Codes/tree/master/2685-first-completely-painted-row-or-column) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MikeChile13/Leet_Codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MikeChile13/Leet_Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/MikeChile13/Leet_Codes/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2502-sort-the-people](https://github.com/MikeChile13/Leet_Codes/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MikeChile13/Leet_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MikeChile13/Leet_Codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |

@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MikeChile13/Leet_Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MikeChile13/Leet_Codes/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/MikeChile13/Leet_Codes/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/MikeChile13/Leet_Codes/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/MikeChile13/Leet_Codes/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MikeChile13/Leet_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0128-longest-consecutive-sequence) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MikeChile13/Leet_Codes/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/MikeChile13/Leet_Codes/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/MikeChile13/Leet_Codes/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/MikeChile13/Leet_Codes/tree/master/0498-diagonal-traverse) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MikeChile13/Leet_Codes/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/MikeChile13/Leet_Codes/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/MikeChile13/Leet_Codes/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/MikeChile13/Leet_Codes/tree/master/0898-transpose-matrix) |

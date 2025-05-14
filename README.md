@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/MikeChile13/Leet_Codes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MikeChile13/Leet_Codes/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/MikeChile13/Leet_Codes/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MikeChile13/Leet_Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikeChile13/Leet_Codes/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -667,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/MikeChile13/Leet_Codes/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MikeChile13/Leet_Codes/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/MikeChile13/Leet_Codes/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/MikeChile13/Leet_Codes/tree/master/0498-diagonal-traverse) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MikeChile13/Leet_Codes/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0059-spiral-matrix-ii) |
 | [0495-teemo-attacking](https://github.com/MikeChile13/Leet_Codes/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/MikeChile13/Leet_Codes/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/MikeChile13/Leet_Codes/tree/master/0898-transpose-matrix) |

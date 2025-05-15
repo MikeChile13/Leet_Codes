@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/MikeChile13/Leet_Codes/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/MikeChile13/Leet_Codes/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/MikeChile13/Leet_Codes/tree/master/0344-reverse-string) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MikeChile13/Leet_Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MikeChile13/Leet_Codes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/MikeChile13/Leet_Codes/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/MikeChile13/Leet_Codes/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikeChile13/Leet_Codes/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MikeChile13/Leet_Codes/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0287-find-the-duplicate-number) |

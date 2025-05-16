@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/MikeChile13/Leet_Codes/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/MikeChile13/Leet_Codes/tree/master/0917-boats-to-save-people) |
+| [0921-spiral-matrix-iii](https://github.com/MikeChile13/Leet_Codes/tree/master/0921-spiral-matrix-iii) |
 | [0941-sort-array-by-parity](https://github.com/MikeChile13/Leet_Codes/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/MikeChile13/Leet_Codes/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0958-sort-array-by-parity-ii) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0854-making-a-large-island) |
 | [0898-transpose-matrix](https://github.com/MikeChile13/Leet_Codes/tree/master/0898-transpose-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/MikeChile13/Leet_Codes/tree/master/0921-spiral-matrix-iii) |
 | [1396-count-servers-that-communicate](https://github.com/MikeChile13/Leet_Codes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/MikeChile13/Leet_Codes/tree/master/2145-grid-game) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/MikeChile13/Leet_Codes/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/MikeChile13/Leet_Codes/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/MikeChile13/Leet_Codes/tree/master/0898-transpose-matrix) |
+| [0921-spiral-matrix-iii](https://github.com/MikeChile13/Leet_Codes/tree/master/0921-spiral-matrix-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MikeChile13/Leet_Codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MikeChile13/Leet_Codes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/MikeChile13/Leet_Codes/tree/master/2048-build-array-from-permutation) |

@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/MikeChile13/Leet_Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/2308-divide-array-into-equal-pairs) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/MikeChile13/Leet_Codes/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/MikeChile13/Leet_Codes/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MikeChile13/Leet_Codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MikeChile13/Leet_Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MikeChile13/Leet_Codes/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MikeChile13/Leet_Codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/2308-divide-array-into-equal-pairs) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/MikeChile13/Leet_Codes/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2427-first-letter-to-appear-twice](https://github.com/MikeChile13/Leet_Codes/tree/master/2427-first-letter-to-appear-twice) |
 | [2434-design-a-number-container-system](https://github.com/MikeChile13/Leet_Codes/tree/master/2434-design-a-number-container-system) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MikeChile13/Leet_Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/MikeChile13/Leet_Codes/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/MikeChile13/Leet_Codes/tree/master/1813-maximum-erasure-value) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MikeChile13/Leet_Codes/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/MikeChile13/Leet_Codes/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/MikeChile13/Leet_Codes/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/MikeChile13/Leet_Codes/tree/master/2478-longest-nice-subarray) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2856-count-complete-subarrays-in-an-array) |

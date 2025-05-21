@@ -497,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MikeChile13/Leet_Codes/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MikeChile13/Leet_Codes/tree/master/0084-largest-rectangle-in-histogram) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MikeChile13/Leet_Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikeChile13/Leet_Codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MikeChile13/Leet_Codes/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0445-add-two-numbers-ii) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/MikeChile13/Leet_Codes/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MikeChile13/Leet_Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/MikeChile13/Leet_Codes/tree/master/0200-number-of-islands) |
 | [0337-house-robber-iii](https://github.com/MikeChile13/Leet_Codes/tree/master/0337-house-robber-iii) |
 | [0684-redundant-connection](https://github.com/MikeChile13/Leet_Codes/tree/master/0684-redundant-connection) |
@@ -832,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/MikeChile13/Leet_Codes/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MikeChile13/Leet_Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/MikeChile13/Leet_Codes/tree/master/0337-house-robber-iii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MikeChile13/Leet_Codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MikeChile13/Leet_Codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -840,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/MikeChile13/Leet_Codes/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MikeChile13/Leet_Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/MikeChile13/Leet_Codes/tree/master/0337-house-robber-iii) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/MikeChile13/Leet_Codes/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MikeChile13/Leet_Codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |

@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MikeChile13/Leet_Codes/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/MikeChile13/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/MikeChile13/Leet_Codes/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/MikeChile13/Leet_Codes/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/MikeChile13/Leet_Codes/tree/master/0368-largest-divisible-subset) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MikeChile13/Leet_Codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/MikeChile13/Leet_Codes/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/MikeChile13/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/MikeChile13/Leet_Codes/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikeChile13/Leet_Codes/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0171-excel-sheet-column-number) |
@@ -892,5 +894,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MikeChile13/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

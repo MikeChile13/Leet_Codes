@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MikeChile13/Leet_Codes/tree/master/0435-non-overlapping-intervals) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1013-fibonacci-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/MikeChile13/Leet_Codes/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MikeChile13/Leet_Codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/0633-sum-of-square-numbers) |
 | [0805-escape-the-ghosts](https://github.com/MikeChile13/Leet_Codes/tree/master/0805-escape-the-ghosts) |
 | [1010-powerful-integers](https://github.com/MikeChile13/Leet_Codes/tree/master/1010-powerful-integers) |
+| [1013-fibonacci-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeChile13/Leet_Codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MikeChile13/Leet_Codes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MikeChile13/Leet_Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -769,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/MikeChile13/Leet_Codes/tree/master/0025-reverse-nodes-in-k-group) |
+| [1013-fibonacci-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MikeChile13/Leet_Codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/2050-count-good-numbers) |
 ## Depth-First Search
@@ -886,4 +889,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1217-relative-sort-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MikeChile13/Leet_Codes/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

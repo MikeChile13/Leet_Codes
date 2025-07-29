@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/MikeChile13/Leet_Codes/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/MikeChile13/Leet_Codes/tree/master/0792-binary-search) |
+| [0805-escape-the-ghosts](https://github.com/MikeChile13/Leet_Codes/tree/master/0805-escape-the-ghosts) |
 | [0854-making-a-large-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/MikeChile13/Leet_Codes/tree/master/0859-design-circular-deque) |
 | [0878-shifting-letters](https://github.com/MikeChile13/Leet_Codes/tree/master/0878-shifting-letters) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MikeChile13/Leet_Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/0633-sum-of-square-numbers) |
+| [0805-escape-the-ghosts](https://github.com/MikeChile13/Leet_Codes/tree/master/0805-escape-the-ghosts) |
 | [1010-powerful-integers](https://github.com/MikeChile13/Leet_Codes/tree/master/1010-powerful-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeChile13/Leet_Codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MikeChile13/Leet_Codes/tree/master/1395-minimum-time-visiting-all-points) |

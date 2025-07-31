@@ -10,8 +10,7 @@ class Solution:
                 return 0
             if (i,sumv) in memo:
                 return memo[(i,sumv)]
-            if i+1 <= n:
-                memo[(i,sumv)] = dp(i+1,sumv + nums[i]) + dp(i+1,sumv - nums[i])
-                return memo[(i,sumv)]
-            return 0
+                
+            memo[(i,sumv)] = dp(i+1,sumv + nums[i]) + dp(i+1,sumv - nums[i])
+            return memo[(i,sumv)]
         return dp(0,0)

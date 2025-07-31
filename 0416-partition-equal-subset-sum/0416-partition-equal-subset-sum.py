@@ -1,12 +1,19 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
-        dp, s = set([0]), sum(nums)
-        if s&1:
+        s = sum(nums)
+        if s & 1:
             return False
-        for num in nums:
-            for curr in range(s>>1, num-1, -1):
-                if curr not in dp and curr-num in dp:
-                    if curr == s>>1:
-                        return True
-                    dp.add(curr)
-        return False
+        target = s // 2
+        n = len(nums)
+        self.found = False
+        memo = {}
+        def backtrack(i, total):
+            if (i,total) in memo:
+                return memo[(i,total)]
+            if total == target:
+                return True
+            if i >= n or total > target:
+                return False
+            memo[(i,total)] = backtrack(i+1,total + nums[i])  or backtrack(i+1,total)
+            return memo[(i,total)]
+        return backtrack(0,0)

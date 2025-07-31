@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MikeChile13/Leet_Codes/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/MikeChile13/Leet_Codes/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/MikeChile13/Leet_Codes/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/MikeChile13/Leet_Codes/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/MikeChile13/Leet_Codes/tree/master/0500-keyboard-row) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/MikeChile13/Leet_Codes/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MikeChile13/Leet_Codes/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0494-target-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/MikeChile13/Leet_Codes/tree/master/1170-shortest-common-supersequence) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/MikeChile13/Leet_Codes/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/MikeChile13/Leet_Codes/tree/master/0093-restore-ip-addresses) |
+| [0494-target-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/MikeChile13/Leet_Codes/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MikeChile13/Leet_Codes/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/MikeChile13/Leet_Codes/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |

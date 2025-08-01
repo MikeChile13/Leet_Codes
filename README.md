@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MikeChile13/Leet_Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/MikeChile13/Leet_Codes/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/MikeChile13/Leet_Codes/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MikeChile13/Leet_Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/MikeChile13/Leet_Codes/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/MikeChile13/Leet_Codes/tree/master/1095-two-city-scheduling) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/MikeChile13/Leet_Codes/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/MikeChile13/Leet_Codes/tree/master/1502-construct-k-palindrome-strings) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/MikeChile13/Leet_Codes/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MikeChile13/Leet_Codes/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/MikeChile13/Leet_Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MikeChile13/Leet_Codes/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/MikeChile13/Leet_Codes/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1970-sorting-the-sentence](https://github.com/MikeChile13/Leet_Codes/tree/master/1970-sorting-the-sentence) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/MikeChile13/Leet_Codes/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |

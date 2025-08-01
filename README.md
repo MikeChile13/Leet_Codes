@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/MikeChile13/Leet_Codes/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/MikeChile13/Leet_Codes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MikeChile13/Leet_Codes/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0854-making-a-large-island) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/MikeChile13/Leet_Codes/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/MikeChile13/Leet_Codes/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0407-trapping-rain-water-ii) |
+| [0547-number-of-provinces](https://github.com/MikeChile13/Leet_Codes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MikeChile13/Leet_Codes/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/MikeChile13/Leet_Codes/tree/master/0820-find-eventual-safe-states) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/MikeChile13/Leet_Codes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MikeChile13/Leet_Codes/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/MikeChile13/Leet_Codes/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/MikeChile13/Leet_Codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/MikeChile13/Leet_Codes/tree/master/0200-number-of-islands) |
 | [0337-house-robber-iii](https://github.com/MikeChile13/Leet_Codes/tree/master/0337-house-robber-iii) |
+| [0547-number-of-provinces](https://github.com/MikeChile13/Leet_Codes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MikeChile13/Leet_Codes/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/MikeChile13/Leet_Codes/tree/master/0820-find-eventual-safe-states) |

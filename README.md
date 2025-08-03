@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/MikeChile13/Leet_Codes/tree/master/2048-build-array-from-permutation) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MikeChile13/Leet_Codes/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2107-find-unique-binary-string](https://github.com/MikeChile13/Leet_Codes/tree/master/2107-find-unique-binary-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/MikeChile13/Leet_Codes/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2145-grid-game](https://github.com/MikeChile13/Leet_Codes/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-sorting-the-sentence](https://github.com/MikeChile13/Leet_Codes/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/MikeChile13/Leet_Codes/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/MikeChile13/Leet_Codes/tree/master/2107-find-unique-binary-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MikeChile13/Leet_Codes/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/MikeChile13/Leet_Codes/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/MikeChile13/Leet_Codes/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/MikeChile13/Leet_Codes/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1970-sorting-the-sentence](https://github.com/MikeChile13/Leet_Codes/tree/master/1970-sorting-the-sentence) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/MikeChile13/Leet_Codes/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/MikeChile13/Leet_Codes/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -751,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/MikeChile13/Leet_Codes/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/MikeChile13/Leet_Codes/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2434-design-a-number-container-system](https://github.com/MikeChile13/Leet_Codes/tree/master/2434-design-a-number-container-system) |
@@ -917,4 +921,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/MikeChile13/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1013-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->

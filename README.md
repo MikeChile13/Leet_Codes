@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MikeChile13/Leet_Codes/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MikeChile13/Leet_Codes/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/MikeChile13/Leet_Codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MikeChile13/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MikeChile13/Leet_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/MikeChile13/Leet_Codes/tree/master/0198-house-robber) |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MikeChile13/Leet_Codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/MikeChile13/Leet_Codes/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/MikeChile13/Leet_Codes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/MikeChile13/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/MikeChile13/Leet_Codes/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikeChile13/Leet_Codes/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/MikeChile13/Leet_Codes/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MikeChile13/Leet_Codes/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Counting Sort
 |  |

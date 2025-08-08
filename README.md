@@ -550,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/MikeChile13/Leet_Codes/tree/master/1170-shortest-common-supersequence) |
+| [1236-n-th-tribonacci-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1236-n-th-tribonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MikeChile13/Leet_Codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MikeChile13/Leet_Codes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0805-escape-the-ghosts](https://github.com/MikeChile13/Leet_Codes/tree/master/0805-escape-the-ghosts) |
 | [1010-powerful-integers](https://github.com/MikeChile13/Leet_Codes/tree/master/1010-powerful-integers) |
 | [1013-fibonacci-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MikeChile13/Leet_Codes/tree/master/1370-count-number-of-nice-subarrays) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MikeChile13/Leet_Codes/tree/master/1395-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MikeChile13/Leet_Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/MikeChile13/Leet_Codes/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/MikeChile13/Leet_Codes/tree/master/1236-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/MikeChile13/Leet_Codes/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/MikeChile13/Leet_Codes/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/MikeChile13/Leet_Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/MikeChile13/Leet_Codes/tree/master/0500-keyboard-row) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MikeChile13/Leet_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MikeChile13/Leet_Codes/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/MikeChile13/Leet_Codes/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/MikeChile13/Leet_Codes/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/MikeChile13/Leet_Codes/tree/master/0768-partition-labels) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/MikeChile13/Leet_Codes/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/MikeChile13/Leet_Codes/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/MikeChile13/Leet_Codes/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/MikeChile13/Leet_Codes/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/MikeChile13/Leet_Codes/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/MikeChile13/Leet_Codes/tree/master/0494-target-sum) |

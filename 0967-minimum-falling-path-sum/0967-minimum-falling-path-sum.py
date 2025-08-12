@@ -11,7 +11,7 @@ class Solution:
                 matrix[i][j] += min(matrix[i-1][j],a,c)
         
         min_path_sum = float('inf')
-        print(matrix)
+        # print(matrix)
         for j in range(n):
             min_path_sum = min(min_path_sum,matrix[n-1][j])
         return min_path_sum

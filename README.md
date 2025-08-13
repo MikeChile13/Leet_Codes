@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/MikeChile13/Leet_Codes/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MikeChile13/Leet_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MikeChile13/Leet_Codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/MikeChile13/Leet_Codes/tree/master/2634-minimum-common-value) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/MikeChile13/Leet_Codes/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MikeChile13/Leet_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2634-minimum-common-value](https://github.com/MikeChile13/Leet_Codes/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/MikeChile13/Leet_Codes/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikeChile13/Leet_Codes/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/MikeChile13/Leet_Codes/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/MikeChile13/Leet_Codes/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2586-longest-square-streak-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MikeChile13/Leet_Codes/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/MikeChile13/Leet_Codes/tree/master/2634-minimum-common-value) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MikeChile13/Leet_Codes/tree/master/2665-minimum-time-to-repair-cars) |
@@ -572,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/MikeChile13/Leet_Codes/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MikeChile13/Leet_Codes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/MikeChile13/Leet_Codes/tree/master/2262-solving-questions-with-brainpower) |
+| [2586-longest-square-streak-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/MikeChile13/Leet_Codes/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/MikeChile13/Leet_Codes/tree/master/2502-sort-the-people) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/MikeChile13/Leet_Codes/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2586-longest-square-streak-in-an-array](https://github.com/MikeChile13/Leet_Codes/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MikeChile13/Leet_Codes/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/MikeChile13/Leet_Codes/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/2699-count-the-number-of-fair-pairs) |

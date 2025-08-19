@@ -1,22 +1,16 @@
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
-        #sliding window
-        
+        minSubarray = float('inf')
+
+        runsum = 0
+        i = 0
+        j = 0
         n = len(nums)
-
-        sumv = 0
-        left = 0
-
-        size = float('inf')
-
-        for right in range(n):
-            sumv += nums[right]
-
-            while sumv >= target:
-
-                size = min(size,right - left + 1)
-                sumv -= nums[left]
-                left += 1
-            
-        return size if size != float('inf') else 0
-
+        while j < n:
+            runsum += nums[j]
+            while runsum >= target:
+                minSubarray = min(minSubarray,j - i + 1)
+                runsum -= nums[i]
+                i += 1
+            j += 1
+        return minSubarray if minSubarray != float('inf') else 0

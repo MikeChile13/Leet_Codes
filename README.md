@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/MikeChile13/Leet_Codes/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/MikeChile13/Leet_Codes/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MikeChile13/Leet_Codes/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/MikeChile13/Leet_Codes/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/MikeChile13/Leet_Codes/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/MikeChile13/Leet_Codes/tree/master/2465-shifting-letters-ii) |
@@ -714,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/MikeChile13/Leet_Codes/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/MikeChile13/Leet_Codes/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/MikeChile13/Leet_Codes/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/MikeChile13/Leet_Codes/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/MikeChile13/Leet_Codes/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/MikeChile13/Leet_Codes/tree/master/2556-convert-the-temperature) |

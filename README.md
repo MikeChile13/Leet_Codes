@@ -775,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/MikeChile13/Leet_Codes/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/MikeChile13/Leet_Codes/tree/master/0854-making-a-large-island) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/MikeChile13/Leet_Codes/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/MikeChile13/Leet_Codes/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/MikeChile13/Leet_Codes/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/MikeChile13/Leet_Codes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/MikeChile13/Leet_Codes/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/MikeChile13/Leet_Codes/tree/master/0820-find-eventual-safe-states) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/MikeChile13/Leet_Codes/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/MikeChile13/Leet_Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/MikeChile13/Leet_Codes/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/MikeChile13/Leet_Codes/tree/master/2090-number-of-ways-to-arrive-at-destination) |
